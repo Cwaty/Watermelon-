@@ -1,22 +1,22 @@
 a = "Benim Adım Ruby" #BOŞLUĞU KARAKTER OLARAK SAYIYOR.
 a.length
 
-b = "Hello World"
+b = "Sherwood ❤ Crypto"
 b.reverse
 
-c = "hello world"
+c = "SheRwOod ❤ Crypto"
 c.capitalize
 
-d = "hello world"
+d = "SherwOOd ❤ Crypto"
 d.upcase
 
-e = "HELLO WORLD"
+e = "SHERrwood ❤ Crypto"
 e.downcase
 
-f = "Hello World"
+f = "Sherwood ❤ crypto"
 f.next
 
-g = "Hello World"
+g = "sherwood ❤ Crypto"
 g.empty?
 
 h = ""
